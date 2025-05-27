@@ -1,0 +1,7 @@
+RST -> Reset, active low
+CLK -> Clock, active high
+RDY -> Ready, active high, based on PW_OK of PSU + BOARDS pull down during their startup, on reset when needed boards pull this line low, of first powerup, boards when needed pull this low
+
+
+lisette.vanraalte@uwv.nl
+06-50058326

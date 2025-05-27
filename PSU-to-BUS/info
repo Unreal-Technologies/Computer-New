@@ -1,0 +1,160 @@
+{
+  "uuid": "a0bc55604393ce73c40215ccd2b9d13f",
+  "path": "Offline/PSU-to-BUS",
+  "name": "PSU-to-BUS",
+  "content": "",
+  "created_at": "2025-05-27 05:43:50",
+  "updated_at": "2025-05-27 10:36:45",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "ac92f9e4ff52c836f572c593776dc264",
+      "title": "PSU-to-BUS",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "95f1019c14ae408ea3b2e341fc19ab83": 1,
+        "94eba238d80c45aebcd736e311ffe5c7": 1,
+        "a5aacd49a37b1c69a99213318b5e7633": 44,
+        "8ed318af00c64fc691495b5d1cfb8d96": 4,
+        "f94e295f2cf5449981d8f2ee1a0dc9cd": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "39281243",
+          1,
+          "CONN-TH_39281243",
+          "CN1",
+          {
+            "Manufacturer Part": "39281243",
+            "Manufacturer": "MOLEX",
+            "Supplier": "LCSC",
+            "Supplier Part": "C114088"
+          }
+        ],
+        [
+          "DB128V-5.08-5P-GN-S",
+          1,
+          "CONN-TH_5P-P5.08_DIBO_DB128V-5.08-5P-GN-S",
+          "CN2",
+          {
+            "Manufacturer Part": "DB128V-5.08-5P-GN-S",
+            "Manufacturer": "DORABO(地博电气)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2927513"
+          }
+        ],
+        [
+          "3511348AMRS0BNA1",
+          1,
+          "CONN-TH_3511348AMRS0BNA1",
+          "CN6",
+          {
+            "Manufacturer Part": "3511348AMRS0BNA1",
+            "Manufacturer": "JILN(锦凌)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C963719"
+          }
+        ],
+        [
+          "JK-MSMD050-30",
+          4,
+          "F1812",
+          "F1,F2,F3,F4",
+          {
+            "Manufacturer Part": "JK-MSMD050-30",
+            "Manufacturer": "JK(金科)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C369168"
+          }
+        ],
+        [
+          "4.7kΩ",
+          44,
+          "R0805",
+          "R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44",
+          {
+            "Manufacturer Part": "0805W8F4701T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C17673"
+          }
+        ]
+      ],
+      "updateTime": 1748333782,
+      "createTime": 1748317431,
+      "histories": [],
+      "created_at": "2025-05-27 05:43:51",
+      "updated_at": "2025-05-27 10:16:22"
+    },
+    {
+      "uuid": "c6cf9d7b15e4da869c18792574e6cb6b",
+      "puuid": "a0bc55604393ce73c40215ccd2b9d13f",
+      "title": "PCB_PSU-to-BUS",
+      "filename": "PCB_PSU-to-BUS.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e0da04bf4f2c4d0f9820a842bc9b5ffd": 1,
+        "88bfca40e0e14af2a8899c80d4002ba6": 1,
+        "b60f399a7a7e41848b2be1eb49c79141": 44,
+        "ab17c647a0a943b09958724a36a719c7": 4,
+        "482901882cb94d3eb405de21bbc41170": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "39281243",
+          1,
+          "CONN-TH_39281243",
+          "CN1",
+          {
+            "Manufacturer Part": "39281243",
+            "Manufacturer": "MOLEX",
+            "Supplier": "LCSC",
+            "Supplier Part": "C114088"
+          }
+        ],
+        [
+          "3511348AMRS0BNA1",
+          1,
+          "CONN-TH_3511348AMRS0BNA1",
+          "CN6",
+          {
+            "Manufacturer Part": "3511348AMRS0BNA1",
+            "Manufacturer": "JILN(锦凌)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C963719"
+          }
+        ]
+      ],
+      "updateTime": 1748335005,
+      "createTime": 1748328232,
+      "histories": [],
+      "created_at": "2025-05-27 08:43:52",
+      "updated_at": "2025-05-27 10:36:45"
+    }
+  ],
+  "sort": [],
+  "title": "PSU-to-BUS",
+  "foldername": "PSU-to-BUS",
+  "schfilename": "PSU-to-BUS.json",
+  "schfilemtime": 1748333782709
+}

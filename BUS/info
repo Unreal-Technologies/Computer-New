@@ -4,7 +4,7 @@
   "name": "BUS",
   "content": "",
   "created_at": "2025-05-24 15:57:30",
-  "updated_at": "2025-05-27 07:08:38",
+  "updated_at": "2025-05-27 08:51:26",
   "stick": "",
   "documents": [
     {
@@ -17,9 +17,7 @@
       "components": {
         "94eba238d80c45aebcd736e311ffe5c7": 2,
         "8b86936398f3401eb2ca6d352f254aa7": 2,
-        "8bcb65b5da084592bc1a43d8b5e9c32c": 3,
-        "bd66a34a11dd4d48b03873aecfb36725": 1,
-        "49162f314a233a8c909871d2638e4fc6": 3
+        "8bcb65b5da084592bc1a43d8b5e9c32c": 3
       },
       "BOM": [
         [
@@ -28,18 +26,6 @@
           "Package",
           "Components",
           "CustomPara"
-        ],
-        [
-          "1000uF",
-          3,
-          "CAP-TH_BD8.0-P3.50-D0.6-FD",
-          "C1,C2,C3",
-          {
-            "Manufacturer Part": "KM108M010F12RR0VH2FP0",
-            "Manufacturer": "CX(承兴)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C10752"
-          }
         ],
         [
           "3511348AMRS0BNA1",
@@ -76,25 +62,13 @@
             "Supplier": "LCSC",
             "Supplier Part": "C963718"
           }
-        ],
-        [
-          "DB128V-5.08-4P-GN-S",
-          1,
-          "CONN-TH_4P-P5.08_DIBO_DB128V-5.08",
-          "CN8",
-          {
-            "Manufacturer Part": "DB128V-5.08-4P-GN-S",
-            "Manufacturer": "DORABO(地博电气)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C2915641"
-          }
         ]
       ],
-      "updateTime": 1748321949,
+      "updateTime": 1748325382,
       "createTime": 1748095051,
       "histories": [],
       "created_at": "2025-05-24 15:57:31",
-      "updated_at": "2025-05-27 06:59:09"
+      "updated_at": "2025-05-27 07:56:22"
     },
     {
       "uuid": "ff1201afbcd89c3836112e6c7a23072c",
@@ -108,9 +82,7 @@
       "components": {
         "88bfca40e0e14af2a8899c80d4002ba6": 2,
         "7552e86610f24b038ca96a6a6179555c": 2,
-        "9142b56f131a4aa8907385d8aa047686": 3,
-        "f31b0a98c2354aafb261896057647fc0": 1,
-        "90d1b58a2d284d63b5d026a0c4e38bab": 3
+        "9142b56f131a4aa8907385d8aa047686": 3
       },
       "BOM": [
         [
@@ -157,11 +129,11 @@
           }
         ]
       ],
-      "updateTime": 1748322518,
+      "updateTime": 1748328686,
       "createTime": 1748318119,
       "histories": [],
       "created_at": "2025-05-27 05:55:19",
-      "updated_at": "2025-05-27 07:08:38"
+      "updated_at": "2025-05-27 08:51:26"
     }
   ],
   "sort": [
@@ -172,5 +144,5 @@
   "title": "BUS",
   "foldername": "BUS",
   "schfilename": "BUS.json",
-  "schfilemtime": 1748321949742
+  "schfilemtime": 1748325382426
 }
