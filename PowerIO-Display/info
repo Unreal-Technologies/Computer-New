@@ -1,0 +1,66 @@
+{
+  "uuid": "e27f0f464f65e488464cf7ba77e280aa",
+  "path": "Offline/PowerIO-Display",
+  "name": "PowerIO-Display",
+  "content": "",
+  "created_at": "2025-05-29 14:35:06",
+  "updated_at": "2025-05-29 14:39:15",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "fa4610a0851784acff0a4128d94a9a5f",
+      "title": "PowerIO-Display",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "249e12674fff4d9bbf0ed9f2a4644b73": 1,
+        "0af713354c644305a107aac074b99bd2": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "PH2.54-01-16PZS",
+          1,
+          "HDR-TH_32P-P2.54-V-M-R2-C16-S2.54",
+          "H1",
+          {
+            "Manufacturer Part": "PH2.54-01-16PZS",
+            "Manufacturer": "XUNPU(讯普)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7501602"
+          }
+        ],
+        [
+          "ZX-PZ2.54-1-16PZZ",
+          1,
+          "HDR-TH_16P-P2.54-V-M-2",
+          "U1",
+          {
+            "Manufacturer Part": "ZX-PZ2.54-1-16PZZ",
+            "Manufacturer": "Megastar(兆星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7501270"
+          }
+        ]
+      ],
+      "updateTime": 1748522355,
+      "createTime": 1748522106,
+      "histories": [],
+      "created_at": "2025-05-29 14:35:06",
+      "updated_at": "2025-05-29 14:39:15"
+    }
+  ],
+  "sort": [],
+  "title": "PowerIO-Display",
+  "foldername": "PowerIO-Display",
+  "schfilename": "PowerIO-Display.json",
+  "schfilemtime": 1748522355761
+}

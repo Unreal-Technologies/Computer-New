@@ -4,7 +4,7 @@
   "name": "BUS-PSU-PowerIO",
   "content": "",
   "created_at": "2025-05-27 16:41:56",
-  "updated_at": "2025-05-28 15:58:38",
+  "updated_at": "2025-05-29 15:21:13",
   "stick": "",
   "documents": [
     {
@@ -233,24 +233,28 @@
           }
         ]
       ],
-      "updateTime": 1748440644,
+      "updateTime": 1748516906,
       "createTime": 1748356916,
       "histories": [],
       "created_at": "2025-05-27 16:41:56",
-      "updated_at": "2025-05-28 15:57:24"
+      "updated_at": "2025-05-29 13:08:26"
     },
     {
-      "uuid": "13fea185e53c27f248eff205514aa7fe",
-      "puuid": "e14a2d93265e6403908ee6680becda4e",
+      "uuid": "3a7c24115294eee2fa2fd36166e67b26",
       "title": "PCB_BUS-PSU-PowerIO",
       "filename": "PCB_BUS-PSU-PowerIO.json",
       "description": "",
       "docType": "3",
       "master": "",
       "thumb": "/images/thumb-default.png",
+      "updateTime": 1748524873,
+      "createTime": 1748522581,
+      "histories": [],
+      "created_at": "2025-05-29 14:43:01",
+      "updated_at": "2025-05-29 15:21:13",
       "components": {
-        "e8e78627020b4795961cd17fb8b42b10": 3,
         "2ee8eb13a0124a108e622ce40c0c25a8": 5,
+        "e8e78627020b4795961cd17fb8b42b10": 3,
         "90d1b58a2d284d63b5d026a0c4e38bab": 2,
         "7552e86610f24b038ca96a6a6179555c": 1,
         "e7a31d9a752b409d8c6ce54bbda1adc3": 2,
@@ -264,110 +268,12 @@
         "969a578b2869473fa8ef6283c1b3801c": 1,
         "064a3d301e4948b495597ceba036f1b3": 1,
         "d2c89347a0c44598b15d21735fb06c07": 1
-      },
-      "BOM": [
-        [
-          "Value",
-          "Quantity",
-          "Package",
-          "Components",
-          "CustomPara"
-        ],
-        [
-          "3511348AFRS0BNA1",
-          1,
-          "CONN-TH_3511348AFRS0BNA1",
-          "CN7",
-          {
-            "Manufacturer Part": "3511348AFRS0BNA1",
-            "Manufacturer": "JILN(锦凌)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C963717"
-          }
-        ],
-        [
-          "TS-1101-C-W",
-          2,
-          "SW-SMD_L6.0-W3.3-LS8.0",
-          "PWR-SW,RST-SW",
-          {
-            "Manufacturer Part": "TS-1101-C-W",
-            "Manufacturer": "XKB Connectivity(中国星坤)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C318938"
-          }
-        ],
-        [
-          "4.7kΩ",
-          4,
-          "R0805",
-          "R1,R2,R3,R4",
-          {
-            "Manufacturer Part": "0805W8F4701T5E",
-            "Manufacturer": "UNI-ROYAL(厚声)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C17673"
-          }
-        ],
-        [
-          "LP3470A293DBVR",
-          1,
-          "SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR",
-          "U1",
-          {
-            "Manufacturer Part": "LP3470A293DBVR",
-            "Manufacturer": "TI(德州仪器)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C701947"
-          }
-        ],
-        [
-          "74HC574TS",
-          1,
-          "SOIC-20_L13.0-W7.6-P1.27-LS10.3-BL",
-          "U5",
-          {
-            "Manufacturer Part": "74HC574TS",
-            "Manufacturer": "GR(国睿)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C19818859"
-          }
-        ],
-        [
-          "XL74LS08",
-          1,
-          "SOP-14_L8.6-W3.9-P1.27-LS6.0-BL",
-          "U6",
-          {
-            "Manufacturer Part": "XL74LS08",
-            "Manufacturer": "XINLUDA(信路达)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C521140"
-          }
-        ],
-        [
-          "XL74LS32",
-          1,
-          "SOP-14_L8.6-W3.9-P1.27-LS6.0-BL",
-          "U7",
-          {
-            "Manufacturer Part": "XL74LS32",
-            "Manufacturer": "XINLUDA(信路达)",
-            "Supplier": "LCSC",
-            "Supplier Part": "C521171"
-          }
-        ]
-      ],
-      "updateTime": 1748440718,
-      "createTime": 1748435609,
-      "histories": [],
-      "created_at": "2025-05-28 14:33:29",
-      "updated_at": "2025-05-28 15:58:38"
+      }
     }
   ],
   "sort": [],
   "title": "BUS-PSU-PowerIO",
   "foldername": "BUS-PSU-PowerIO",
   "schfilename": "BUS-PSU-PowerIO.json",
-  "schfilemtime": 1748440645005
+  "schfilemtime": 1748516906097
 }

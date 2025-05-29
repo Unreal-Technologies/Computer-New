@@ -4,7 +4,7 @@
   "ff1201afbcd89c3836112e6c7a23072c": "BUS/PCB_BUS.json",
   "e14a2d93265e6403908ee6680becda4e": "BUS-PSU-PowerIO",
   "215a2d1b727a48326549d4ca3ac35928": "BUS-PSU-PowerIO/BUS-PSU-PowerIO.json?BUS-PSU-PowerIO",
-  "13fea185e53c27f248eff205514aa7fe": "BUS-PSU-PowerIO/PCB_BUS-PSU-PowerIO.json",
+  "3a7c24115294eee2fa2fd36166e67b26": "BUS-PSU-PowerIO/PCB_BUS-PSU-PowerIO.json",
   "3e9405e0f59e44cb01d7fdaabcca355f": "Components",
   "b76d5e63d0be3edafd121efdd69393ef": "Components/Capacitors",
   "5d7e8ee7db02c6b22b8a7f7756a24dcb": "Components/Capacitors/Ceramic",
@@ -15,6 +15,9 @@
   "2a0085907d24706d9452c18eed791a11": "Components/Connectors/PIN Headers/Female",
   "eb17e899d71c3c48307f00aa01418b62": "Components/Connectors/PIN Headers/Female/2.54",
   "5ec1efb793901839f9b39aa33ca3d5f8": "Components/Connectors/PIN Headers/Female/2.54/Straight",
+  "de5375bc557b5aa61aef692afa3da5e0": "Components/Connectors/PIN Headers/Male",
+  "1dd90cb7f4e7b0f022c15539120f7be4": "Components/Connectors/PIN Headers/Male/2.54",
+  "35fe13d3e8c175e51b699aa9d1872eae": "Components/Connectors/PIN Headers/Male/2.54/Straight",
   "3ff58903ee7da01150e75ef525a96f78": "Components/Connectors/Screw Terminal",
   "e11875c57b273b3010b2e00663261864": "Components/Diodes",
   "88a20dc25784ae34549bebc2b72f1f62": "Components/Fuses",
@@ -26,5 +29,7 @@
   "6368022548941c1db219f585f94867c7": "Components/Switches",
   "a0bc55604393ce73c40215ccd2b9d13f": "PSU-to-BUS",
   "ac92f9e4ff52c836f572c593776dc264": "PSU-to-BUS/PSU-to-BUS.json?PSU-to-BUS",
-  "c6cf9d7b15e4da869c18792574e6cb6b": "PSU-to-BUS/PCB_PSU-to-BUS.json"
+  "c6cf9d7b15e4da869c18792574e6cb6b": "PSU-to-BUS/PCB_PSU-to-BUS.json",
+  "e27f0f464f65e488464cf7ba77e280aa": "PowerIO-Display",
+  "fa4610a0851784acff0a4128d94a9a5f": "PowerIO-Display/PowerIO-Display.json?PowerIO-Display"
 }
