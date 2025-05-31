@@ -4,7 +4,7 @@
   "name": "PSU-to-BUS",
   "content": "",
   "created_at": "2025-05-27 05:43:50",
-  "updated_at": "2025-05-29 12:35:20",
+  "updated_at": "2025-05-31 15:48:38",
   "stick": "",
   "documents": [
     {
@@ -17,7 +17,7 @@
       "components": {
         "95f1019c14ae408ea3b2e341fc19ab83": 1,
         "94eba238d80c45aebcd736e311ffe5c7": 1,
-        "a5aacd49a37b1c69a99213318b5e7633": 44,
+        "a5aacd49a37b1c69a99213318b5e7633": 46,
         "8ed318af00c64fc691495b5d1cfb8d96": 4,
         "f94e295f2cf5449981d8f2ee1a0dc9cd": 1
       },
@@ -79,9 +79,9 @@
         ],
         [
           "4.7kΩ",
-          44,
+          46,
           "R0805",
-          "R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R42,R43,R44,R45",
+          "R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R45,R46",
           {
             "Manufacturer Part": "0805W8F4701T5E",
             "Manufacturer": "UNI-ROYAL(厚声)",
@@ -90,11 +90,11 @@
           }
         ]
       ],
-      "updateTime": 1748434204,
+      "updateTime": 1748699161,
       "createTime": 1748317431,
       "histories": [],
       "created_at": "2025-05-27 05:43:51",
-      "updated_at": "2025-05-28 14:10:04"
+      "updated_at": "2025-05-31 15:46:01"
     },
     {
       "uuid": "c6cf9d7b15e4da869c18792574e6cb6b",
@@ -106,7 +106,7 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "b60f399a7a7e41848b2be1eb49c79141": 44,
+        "b60f399a7a7e41848b2be1eb49c79141": 46,
         "e0da04bf4f2c4d0f9820a842bc9b5ffd": 1,
         "88bfca40e0e14af2a8899c80d4002ba6": 1,
         "ab17c647a0a943b09958724a36a719c7": 4,
@@ -145,16 +145,16 @@
           }
         ]
       ],
-      "updateTime": 1748514920,
+      "updateTime": 1748699318,
       "createTime": 1748328232,
       "histories": [],
       "created_at": "2025-05-27 08:43:52",
-      "updated_at": "2025-05-29 12:35:20"
+      "updated_at": "2025-05-31 15:48:38"
     }
   ],
   "sort": [],
   "title": "PSU-to-BUS",
   "foldername": "PSU-to-BUS",
   "schfilename": "PSU-to-BUS.json",
-  "schfilemtime": 1748434204659
+  "schfilemtime": 1748699161681
 }

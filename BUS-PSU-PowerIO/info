@@ -4,7 +4,7 @@
   "name": "BUS-PSU-PowerIO",
   "content": "",
   "created_at": "2025-05-27 16:41:56",
-  "updated_at": "2025-05-29 15:21:13",
+  "updated_at": "2025-05-31 15:50:31",
   "stick": "",
   "documents": [
     {
@@ -24,13 +24,22 @@
         "7d360c865388444ca7ac14b1c788cfad": 1,
         "140d1c42f592efeaab7dd37550d09c29": 1,
         "70768ea5045944fa823e3f10f473dbb9": 2,
-        "8eccdd9bcab74f1aa57c9dd148cecb94": 1,
-        "8f4f5e39a4384e28a0fa914ee4992db8": 5,
+        "8eccdd9bcab74f1aa57c9dd148cecb94": 2,
+        "8f4f5e39a4384e28a0fa914ee4992db8": 4,
         "07fce723527e48739d350bb77e9db046": 1,
         "33763bdeacdf4bbbb8967fea68b105a9": 1,
         "49162f314a233a8c909871d2638e4fc6": 2,
         "e869a782b90705dc9926da97baa35b27": 3,
-        "c269407205ded0956dddc6e985a09e10": 5
+        "c269407205ded0956dddc6e985a09e10": 5,
+        "1e8a84d50b8068dce3bee2549e07a715": 1,
+        "4b4c2a5fc1ca4bc0a3821802f13c1517": 1,
+        "3831f14578315fec0c8e234c3155a0ea": 1,
+        "f12c0c89c74e5b9396b39230f719830e": 3,
+        "e37848c761d1e9e8a4a3d9414b0c92cd": 1,
+        "88dcfe90bd0640edaf6a2719915940a3": 1,
+        "03cc6c336e0a40309b07d7dfe2114ab7": 6,
+        "597701dbde98d3183fe5df5fb870ec57": 1,
+        "00f0193d741340c9bc7f75b6be645eab": 1
       },
       "BOM": [
         [
@@ -65,15 +74,15 @@
           }
         ],
         [
-          "HL-PT-1608U97GC-L",
-          5,
-          "LED0603-RD_GREEN",
-          "CLOCK,PS-ON,PWR-OK,READY,RESET",
+          "20pF",
+          6,
+          "CAP-TH_L5.0-W3.2-P5.08-D0.6",
+          "C8,C9,C10,C11,C12,C13",
           {
-            "Manufacturer Part": "HL-PT-1608U97GC-L",
-            "Manufacturer": "HONGLITRONIC(鸿利光电)",
+            "Manufacturer Part": "CD1H200JC9BECHD100",
+            "Manufacturer": "Dersonic(德尔创)",
             "Supplier": "LCSC",
-            "Supplier Part": "C497917"
+            "Supplier Part": "C2761744"
           }
         ],
         [
@@ -113,6 +122,18 @@
           }
         ],
         [
+          "HL-PT-1608U97GC-L",
+          4,
+          "LED0603-RD_GREEN",
+          "PS-ON,PWR-OK,READY,RESET",
+          {
+            "Manufacturer Part": "HL-PT-1608U97GC-L",
+            "Manufacturer": "HONGLITRONIC(鸿利光电)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C497917"
+          }
+        ],
+        [
           "TS-1101-C-W",
           2,
           "SW-SMD_L6.0-W3.3-LS8.0",
@@ -134,6 +155,54 @@
             "Manufacturer": "UNI-ROYAL(厚声)",
             "Supplier": "LCSC",
             "Supplier Part": "C17673"
+          }
+        ],
+        [
+          "270Ω",
+          1,
+          "R0603",
+          "R5",
+          {
+            "Manufacturer Part": "0603WAF2700T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22966"
+          }
+        ],
+        [
+          "1MΩ",
+          3,
+          "R1206",
+          "R6,R8,R9",
+          {
+            "Manufacturer Part": "1206W4F1004T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C17927"
+          }
+        ],
+        [
+          "1kΩ",
+          1,
+          "R0603",
+          "R7",
+          {
+            "Manufacturer Part": "0603WAF1001T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C21190"
+          }
+        ],
+        [
+          "5kΩ",
+          1,
+          "R0603",
+          "R10",
+          {
+            "Manufacturer Part": "RTT035001FTP",
+            "Manufacturer": "RALEC(旺诠)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C166926"
           }
         ],
         [
@@ -162,9 +231,9 @@
         ],
         [
           "SN74LS541DWR",
-          1,
+          2,
           "SOIC-20_L12.8-W7.5-P1.27-LS10.3-BL",
-          "U2",
+          "U2,U9",
           {
             "Manufacturer Part": "SN74LS541DWR",
             "Manufacturer": "TI(德州仪器)",
@@ -231,13 +300,61 @@
             "Supplier": "LCSC",
             "Supplier Part": "C521171"
           }
+        ],
+        [
+          "74HC14D,653",
+          1,
+          "SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL",
+          "U8",
+          {
+            "Manufacturer Part": "74HC14D,653",
+            "Manufacturer": "Nexperia(安世)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5605"
+          }
+        ],
+        [
+          "20MHz",
+          1,
+          "HC-49S_L11.4-W4.8-LS12.7",
+          "X1",
+          {
+            "Manufacturer Part": "H6OEL89CSC-SUGYLC-20M",
+            "Manufacturer": "YXC(扬兴晶振)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18213020"
+          }
+        ],
+        [
+          "10MHz",
+          1,
+          "HC-49S_L11.4-W4.8",
+          "X2",
+          {
+            "Manufacturer Part": "X49SM10MSD2SC",
+            "Manufacturer": "YXC(扬兴晶振)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2244"
+          }
+        ],
+        [
+          "5MHz",
+          1,
+          "HC-49S_L11.4-W4.8",
+          "X3",
+          {
+            "Manufacturer Part": "6CS05000F20UCG",
+            "Manufacturer": "SJK(晶科鑫)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C252307"
+          }
         ]
       ],
-      "updateTime": 1748516906,
+      "updateTime": 1748699431,
       "createTime": 1748356916,
       "histories": [],
       "created_at": "2025-05-27 16:41:56",
-      "updated_at": "2025-05-29 13:08:26"
+      "updated_at": "2025-05-31 15:50:31"
     },
     {
       "uuid": "3a7c24115294eee2fa2fd36166e67b26",
@@ -247,13 +364,20 @@
       "docType": "3",
       "master": "",
       "thumb": "/images/thumb-default.png",
-      "updateTime": 1748524873,
+      "updateTime": 1748699027,
       "createTime": 1748522581,
       "histories": [],
       "created_at": "2025-05-29 14:43:01",
-      "updated_at": "2025-05-29 15:21:13",
+      "updated_at": "2025-05-31 15:43:47",
       "components": {
         "2ee8eb13a0124a108e622ce40c0c25a8": 5,
+        "478ee63f198949468c8a1f9a73fb4b6a": 6,
+        "398691f1f785460098bbe5ee6590333c": 3,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 3,
+        "0f2364c02f094100b1b3205c9d829099": 1,
+        "969a578b2869473fa8ef6283c1b3801c": 2,
+        "8de9ceb6c2c148dfa826cf853d4122c7": 1,
+        "6bbb24bc2824424ca234524222d49524": 2,
         "e8e78627020b4795961cd17fb8b42b10": 3,
         "90d1b58a2d284d63b5d026a0c4e38bab": 2,
         "7552e86610f24b038ca96a6a6179555c": 1,
@@ -263,9 +387,8 @@
         "5356272cc5af44b39d15fd2cd0ee845c": 1,
         "e69ddeebe4e34357ab0ade32765aa5fb": 2,
         "6f34dc26095642d5b9cc3f798b89f8cf": 1,
-        "a79742a4decb4495a5ae45708846b7ba": 5,
+        "a79742a4decb4495a5ae45708846b7ba": 4,
         "109e5b24485d430f95eaa4f2fe2ab4f9": 2,
-        "969a578b2869473fa8ef6283c1b3801c": 1,
         "064a3d301e4948b495597ceba036f1b3": 1,
         "d2c89347a0c44598b15d21735fb06c07": 1
       }
@@ -275,5 +398,5 @@
   "title": "BUS-PSU-PowerIO",
   "foldername": "BUS-PSU-PowerIO",
   "schfilename": "BUS-PSU-PowerIO.json",
-  "schfilemtime": 1748516906097
+  "schfilemtime": 1748699431236
 }
