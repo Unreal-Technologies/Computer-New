@@ -4,7 +4,7 @@
   "name": "PowerIO-Display",
   "content": "",
   "created_at": "2025-05-29 14:35:06",
-  "updated_at": "2025-05-29 14:39:15",
+  "updated_at": "2025-06-01 17:24:27",
   "stick": "",
   "documents": [
     {
@@ -16,7 +16,226 @@
       "thumb": "/images/thumb-default.png",
       "components": {
         "249e12674fff4d9bbf0ed9f2a4644b73": 1,
-        "0af713354c644305a107aac074b99bd2": 1
+        "0af713354c644305a107aac074b99bd2": 1,
+        "986a90dae7daff59866c11b57a6c3250": 1,
+        "f886c9abf92148799ee899019394287b": 2,
+        "c8d1ac7ffc3c4e03883307977252144c": 2,
+        "c945fdce874b4b1ba24e9b8981149e6b": 2,
+        "e869a782b90705dc9926da97baa35b27": 6,
+        "8eccdd9bcab74f1aa57c9dd148cecb94": 5,
+        "8710e6eb28c44416b37b2e373d35a96d": 1,
+        "a5aacd49a37b1c69a99213318b5e7633": 3,
+        "36628af0fe3849a2f482991ed56c81b7": 1,
+        "03cc6c336e0a40309b07d7dfe2114ab7": 2,
+        "4b4c2a5fc1ca4bc0a3821802f13c1517": 1,
+        "316e88587a1c4de59d5feffe5f67622d": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "20pF",
+          2,
+          "CAP-TH_L5.0-W3.2-P5.08-D0.6",
+          "C8,C9",
+          {
+            "Manufacturer Part": "CD1H200JC9BECHD100",
+            "Manufacturer": "Dersonic(德尔创)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2761744"
+          }
+        ],
+        [
+          "SM4007PL",
+          6,
+          "SOD-123F_L2.8-W1.8-LS3.7-RD",
+          "D1,D2,D3,D4,D7,D8",
+          {
+            "Manufacturer Part": "SM4007PL",
+            "Manufacturer": "MDD(辰达半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C64898"
+          }
+        ],
+        [
+          "FJ5461AH red",
+          1,
+          "LED-SEG-TH_FJ5461AH",
+          "DISPLAY",
+          {
+            "Manufacturer Part": "FJ5461AH 红色",
+            "Manufacturer": "志浩",
+            "Supplier": "LCSC",
+            "Supplier Part": "C54396"
+          }
+        ],
+        [
+          "PH2.54-01-16PZS",
+          1,
+          "HDR-TH_32P-P2.54-V-M-R2-C16-S2.54",
+          "H1",
+          {
+            "Manufacturer Part": "PH2.54-01-16PZS",
+            "Manufacturer": "XUNPU(讯普)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7501602"
+          }
+        ],
+        [
+          "TS-1101-C-W",
+          1,
+          "SW-SMD_L6.0-W3.3-LS8.0",
+          "MODE",
+          {
+            "Manufacturer Part": "TS-1101-C-W",
+            "Manufacturer": "XKB Connectivity(中国星坤)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C318938"
+          }
+        ],
+        [
+          "4.7kΩ",
+          3,
+          "R0805",
+          "R1,R2,R3",
+          {
+            "Manufacturer Part": "0805W8F4701T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C17673"
+          }
+        ],
+        [
+          "ZX-PZ2.54-1-16PZZ",
+          1,
+          "HDR-TH_16P-P2.54-V-M-2",
+          "U1",
+          {
+            "Manufacturer Part": "ZX-PZ2.54-1-16PZZ",
+            "Manufacturer": "Megastar(兆星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7501270"
+          }
+        ],
+        [
+          "SN74LS193DR(LX)",
+          2,
+          "SOP-16_L9.9-W3.9-P1.27-LS6.0-BL",
+          "U2,U5",
+          {
+            "Manufacturer Part": "SN74LS193DR(LX)",
+            "Manufacturer": "LX(灵星芯微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22449630"
+          }
+        ],
+        [
+          "XL74LS04",
+          2,
+          "SOP-14_L8.6-W3.9-P1.27-LS6.0-BL",
+          "U3,U12",
+          {
+            "Manufacturer Part": "XL74LS04",
+            "Manufacturer": "XINLUDA(信路达)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C513511"
+          }
+        ],
+        [
+          "XL74LS139",
+          2,
+          "SOP-16_L9.9-W3.9-P1.27-LS6.1-BL",
+          "U4,U6",
+          {
+            "Manufacturer Part": "XL74LS139",
+            "Manufacturer": "XINLUDA(信路达)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C521174"
+          }
+        ],
+        [
+          "SN74LS541DWR",
+          5,
+          "SOIC-20_L12.8-W7.5-P1.27-LS10.3-BL",
+          "U7,U8,U9,U10,U11",
+          {
+            "Manufacturer Part": "SN74LS541DWR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2675558"
+          }
+        ],
+        [
+          "ATMEGA328P-PU",
+          1,
+          "DIP-28_L34.6-W7.3-P2.54-LS10.2-BL",
+          "U13",
+          {
+            "Manufacturer Part": "ATMEGA328P-PU",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C33901"
+          }
+        ],
+        [
+          "XL74LS00",
+          2,
+          "SOP-14_L8.6-W3.9-P1.27-LS6.0-BL",
+          "U14,U15",
+          {
+            "Manufacturer Part": "XL74LS00",
+            "Manufacturer": "XINLUDA(信路达)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C609793"
+          }
+        ],
+        [
+          "20MHz",
+          1,
+          "HC-49S_L11.4-W4.8-LS12.7",
+          "X1",
+          {
+            "Manufacturer Part": "H6OEL89CSC-SUGYLC-20M",
+            "Manufacturer": "YXC(扬兴晶振)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18213020"
+          }
+        ]
+      ],
+      "updateTime": 1748788970,
+      "createTime": 1748522106,
+      "histories": [],
+      "created_at": "2025-05-29 14:35:06",
+      "updated_at": "2025-06-01 16:42:50"
+    },
+    {
+      "uuid": "8ef4d44b2bcecd3bd0d39fce8ca7defd",
+      "puuid": "e27f0f464f65e488464cf7ba77e280aa",
+      "title": "PCB_PowerIO-Display",
+      "filename": "PCB_PowerIO-Display.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e8e78627020b4795961cd17fb8b42b10": 6,
+        "405ef91df9aa4857a93f9762e211a45b": 2,
+        "e69ddeebe4e34357ab0ade32765aa5fb": 4,
+        "1dbbaa396a2f40e5b61a9d4662872447": 2,
+        "969a578b2869473fa8ef6283c1b3801c": 5,
+        "e7a31d9a752b409d8c6ce54bbda1adc3": 1,
+        "b60f399a7a7e41848b2be1eb49c79141": 3,
+        "b68fc94c85664ee7a9bf827e8783c42f": 1,
+        "478ee63f198949468c8a1f9a73fb4b6a": 2,
+        "2f1d96128ab94db491eae99d61bfb39c": 1,
+        "8de9ceb6c2c148dfa826cf853d4122c7": 1,
+        "666e960d81164eaebde15e728f7c89e8": 1,
+        "f35f82d81cc049ceb2a74d7390d26ddc": 1
       },
       "BOM": [
         [
@@ -51,16 +270,16 @@
           }
         ]
       ],
-      "updateTime": 1748522355,
-      "createTime": 1748522106,
+      "updateTime": 1748791467,
+      "createTime": 1748699826,
       "histories": [],
-      "created_at": "2025-05-29 14:35:06",
-      "updated_at": "2025-05-29 14:39:15"
+      "created_at": "2025-05-31 15:57:06",
+      "updated_at": "2025-06-01 17:24:27"
     }
   ],
   "sort": [],
   "title": "PowerIO-Display",
   "foldername": "PowerIO-Display",
   "schfilename": "PowerIO-Display.json",
-  "schfilemtime": 1748522355761
+  "schfilemtime": 1748788970503
 }

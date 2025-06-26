@@ -23,6 +23,7 @@
   "e11875c57b273b3010b2e00663261864": "Components/Diodes",
   "88a20dc25784ae34549bebc2b72f1f62": "Components/Fuses",
   "0546f920bfb8cf717e5a892d391bf60b": "Components/ICs",
+  "8f4c7b646926b02c0e1f4f116b72880d": "Components/ICs/Decoders",
   "2a84dd8cca8bf04445826d16d0580a7b": "Components/ICs/Gates",
   "1fc0e247f775759586033d01ee954c70": "Components/ICs/Line Drivers",
   "d8c3225a0f751cd37b832121e6d1f0b5": "Components/ICs/Memory",
@@ -32,5 +33,6 @@
   "ac92f9e4ff52c836f572c593776dc264": "PSU-to-BUS/PSU-to-BUS.json?PSU-to-BUS",
   "c6cf9d7b15e4da869c18792574e6cb6b": "PSU-to-BUS/PCB_PSU-to-BUS.json",
   "e27f0f464f65e488464cf7ba77e280aa": "PowerIO-Display",
-  "fa4610a0851784acff0a4128d94a9a5f": "PowerIO-Display/PowerIO-Display.json?PowerIO-Display"
+  "fa4610a0851784acff0a4128d94a9a5f": "PowerIO-Display/PowerIO-Display.json?PowerIO-Display",
+  "8ef4d44b2bcecd3bd0d39fce8ca7defd": "PowerIO-Display/PCB_PowerIO-Display.json"
 }
